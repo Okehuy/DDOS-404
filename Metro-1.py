@@ -1,7 +1,12 @@
 
-import random,socket,threading
-import struct,codecs,sys
-import time,os
+import random
+import socket
+import threading
+import struct
+import codecs
+import sys
+import time
+import os
 os.system("clear")
 print("Installing codecs")
 time.sleep(5)
